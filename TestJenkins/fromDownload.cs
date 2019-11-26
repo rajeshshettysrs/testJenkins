@@ -34,8 +34,7 @@ namespace TestJenkins
             clsZipUnzip unzip = null;
             unzip = new clsZipUnzip();
             string unZipPath = Path.GetDirectoryName(Application.StartupPath);
-            string zipName = Path.ChangeExtension(Path.GetFileName(Application.StartupPath), ".zip");
-            string zipPath = _pathToDownload + "\\" + zipName;
+            string zipPath = _pathToDownload + "\\" + "chromedriver.zip";
             int noOfFiles = 1;
 
             if (File.Exists(zipPath))

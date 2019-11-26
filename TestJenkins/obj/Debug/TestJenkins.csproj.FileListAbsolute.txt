@@ -1,0 +1,9 @@
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\bin\Debug\TestJenkins.pdb
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csprojResolveAssemblyReference.cache
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\obj\Debug\TestJenkins.fromDownload.resources
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\obj\Debug\TestJenkins.Properties.Resources.resources
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csproj.GenerateResource.Cache
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
+F:\Rajesh\C# Practice\TestJenkins\TestJenkins\bin\Debug\ICSharpCode.SharpZipLib.dll
